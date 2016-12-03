@@ -1,4 +1,12 @@
-﻿XML-RPC.NET - XML-RPC for .NET 
+﻿Version: xml-rpc.net.3.0.0.266
+From: https://code.google.com/archive/p/xmlrpcnet/downloads
+
+NUGET
+-----
+client: https://www.nuget.org/packages/xmlrpcnet/3.0.0.266
+server: https://www.nuget.org/packages/xmlrpcnet-server/3.0.0.266
+
+XML-RPC.NET - XML-RPC for .NET 
 v3.0.0 Release
 Copyright (C) 2001-2010 Charles Cook (chascook@gmail.com)
 
